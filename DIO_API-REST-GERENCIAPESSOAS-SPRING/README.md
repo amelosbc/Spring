@@ -1,4 +1,4 @@
-Projeto realizado em treinamento na plataforma DIGITAL INNOVATION ONE - no bootcamp Avanade Camp
+Projeto realizado em treinamento na plataforma DIGITAL INNOVATION ONE - no bootcamp Avanade Code Anywhere
 
 
 <h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
